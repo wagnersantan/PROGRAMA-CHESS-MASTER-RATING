@@ -1,3 +1,8 @@
+
+## Licença
+
+Este projeto está licenciado sob a Licença de Todos os Direitos Reservados. Para mais informações, consulte o arquivo LICENSE.
+
 # Projeto-Programa-Rantig-Enxadristas
 
 
