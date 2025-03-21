@@ -1,4 +1,4 @@
-
+CHESS MASTER RATING
 O programa desenvolvido é um gerenciador de enxadristas que permite cadastrar, atualizar e monitorar informações sobre jogadores de xadrez. Utilizando a biblioteca Tkinter para a interface gráfica e MongoDB como banco de dados, o software oferece funcionalidades como cadastro de novos enxadristas, registro de resultados de confrontos, geração de relatórios em Excel e gráficos que representam a distribuição de ratings dos jogadores.
 
 Funcionalidades Principais:
